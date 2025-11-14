@@ -1,0 +1,376 @@
+job_title,experience,education,location,age,salary
+Software Engineer,5,Bachelor's,San Francisco,32,90000
+Data Analyst,3,Master's,Chicago,28,65000
+Senior Manager,15,PhD,London,45,150000
+Sales Associate,7,Bachelor's,Los Angeles,36,60000
+Director,20,Master's,Boston,52,200000
+Marketing Analyst,2,Bachelor's,Seattle,29,55000
+Product Manager,12,Master's,Washington DC,42,120000
+Sales Manager,4,Bachelor's,Miami,31,80000
+Marketing Coordinator,1,Bachelor's,Toronto,26,45000
+Senior Scientist,10,PhD,Vancouver,38,110000
+Software Developer,3,Master's,Houston,29,75000
+HR Manager,18,Bachelor's,Atlanta,48,140000
+Financial Analyst,6,Bachelor's,Dallas,35,65000
+Project Manager,14,Master's,Austin,40,130000
+Customer Service Rep,2,Bachelor's,Denver,27,40000
+Operations Manager,16,Bachelor's,Philadelphia,44,125000
+Marketing Manager,7,Master's,Berlin,33,90000
+Senior Engineer,12,PhD,Paris,39,115000
+Data Entry Clerk,0,Bachelor's,Sydney,25,35000
+Sales Director,22,Bachelor's,Tokyo,51,180000
+Business Analyst,5,Master's,San Diego,34,80000
+VP of Operations,19,Master's,Phoenix,47,190000
+IT Support,2,Bachelor's,San Jose,30,50000
+Recruiter,9,Bachelor's,Portland,36,60000
+Financial Manager,13,Master's,Las Vegas,41,140000
+Social Media Specialist,3,Bachelor's,Detroit,28,45000
+Software Manager,11,Master's,Minneapolis,37,110000
+Junior Developer,1,Bachelor's,Cleveland,24,40000
+Senior Consultant,15,PhD,Cincinnati,43,140000
+Product Designer,6,Master's,Pittsburgh,33,90000
+CEO,25,Bachelor's,Baltimore,50,250000
+Accountant,4,Bachelor's,Orlando,31,55000
+Data Scientist,3,Master's,Tampa,29,75000
+Marketing Specialist,10,Bachelor's,Charlotte,39,65000
+Senior Manager,20,PhD,Raleigh,46,170000
+Technical Writer,2,Bachelor's,Nashville,27,45000
+HR Generalist,7,Bachelor's,Kansas City,35,60000
+Project Engineer,14,Master's,St. Louis,42,115000
+Customer Success Rep,1,Bachelor's,Indianapolis,26,40000
+Sales Executive,21,Bachelor's,Columbus,49,160000
+UX Designer,5,Master's,Salt Lake City,34,80000
+Operations Director,18,Master's,Milwaukee,48,190000
+Network Engineer,3,Bachelor's,Memphis,30,60000
+Administrative Assistant,8,Bachelor's,Omaha,36,45000
+Strategy Consultant,13,Master's,New Orleans,41,130000
+Copywriter,2,Bachelor's,Albany,28,40000
+Account Manager,5,Bachelor's,Buffalo,32,75000
+Director of Marketing,16,Master's,Rochester,45,180000
+Senior Scientist,11,PhD,Hartford,38,120000
+Help Desk Analyst,0,Bachelor's,Providence,25,35000
+Customer Service Manager,22,Bachelor's,Richmond,51,130000
+Business Intelligence Analyst,7,Master's,Norfolk,33,85000
+Event Coordinator,12,Bachelor's,Birmingham,40,60000
+VP of Finance,19,Master's,Jacksonville,47,200000
+Graphic Designer,3,Bachelor's,Fort Worth,29,50000
+Sales Manager,9,Bachelor's,Oklahoma City,36,95000
+UX Researcher,2,Master's,Tulsa,27,65000
+Senior Engineer,17,PhD,Honolulu,43,140000
+Social Media Manager,4,Bachelor's,Anchorage,30,55000
+Product Manager,7,Master's,Boise,35,105000
+Director of Operations,23,Master's,Spokane,51,170000
+Marketing Analyst,3,Bachelor's,Fresno,29,50000
+HR Manager,12,Bachelor's,Sacramento,40,80000
+Senior Data Scientist,21,PhD,Bakersfield,47,180000
+Junior Accountant,1,Bachelor's,Riverside,26,35000
+Digital Marketing Manager,10,Master's,Irvine,38,90000
+IT Manager,19,Bachelor's,Santa Clara,46,120000
+Customer Service Representative,5,Bachelor's,San Mateo,31,45000
+Business Development Manager,8,Master's,Stockton,34,90000
+Senior Financial Analyst,18,Master's,Modesto,49,150000
+Web Developer,6,Bachelor's,Wichita,33,65000
+Recruiter,11,Bachelor's,Topeka,39,70000
+Research Director,16,PhD,Lincoln,45,190000
+Technical Support Specialist,2,Bachelor's,Des Moines,28,40000
+Creative Director,14,Master's,Sioux Falls,42,120000
+Project Manager,10,Bachelor's,Rapid City,37,95000
+Operations Manager,22,Bachelor's,Cheyenne,50,160000
+Senior Software Engineer,6,Master's,Billings,32,100000
+Human Resources Director,20,Master's,Missoula,48,180000
+Content Marketing Manager,3,Bachelor's,Helena,30,55000
+Technical Recruiter,8,Bachelor's,Fargo,36,70000
+Data Analyst,13,Master's,Grand Forks,41,80000
+Sales Representative,0,Bachelor's,Bismarck,25,30000
+Chief Technology Officer,24,PhD,Duluth,52,250000
+Junior Designer,2,Bachelor's,Green Bay,29,40000
+Financial Advisor,10,Master's,Madison,34,95000
+Junior Account Manager,2,Bachelor's,Appleton,27,45000
+HR Generalist,15,Bachelor's,Eugene,40,80000
+Senior Project Manager,21,Master's,Bend,46,135000
+Marketing Coordinator,6,Bachelor's,Salem,31,55000
+Principal Scientist,11,PhD,Fort Lauderdale,36,120000
+Sales Associate,3,Bachelor's,West Palm Beach,29,40000
+Supply Chain Manager,18,Bachelor's,Daytona Beach,43,105000
+Senior Marketing Manager,25,Master's,Sarasota,52,170000
+Business Analyst,7,Bachelor's,Pensacola,33,75000
+Training Specialist,12,Bachelor's,Mobile,39,65000
+Research Scientist,22,PhD,Shreveport,47,160000
+Junior Software Developer,1,Bachelor's,Baton Rouge,26,35000
+Public Relations Manager,10,Master's,Lafayette,38,90000
+Operations Analyst,20,Bachelor's,El Paso,45,110000
+Event Coordinator,5,Bachelor's,Lubbock,31,45000
+Product Marketing Manager,8,Master's,Amarillo,35,95000
+Senior HR Manager,19,Master's,Corpus Christi,49,150000
+Junior Web Developer,5,Bachelor's,Brownsville,33,50000
+Senior Project Coordinator,13,Master's,McAllen,39,80000
+Chief Data Officer,16,PhD,Flagstaff,44,220000
+Digital Content Producer,3,Bachelor's,Tucson,30,50000
+IT Support Specialist,7,Bachelor's,Yuma,36,60000
+Senior Marketing Analyst,14,Master's,Santa Fe,41,100000
+Customer Success Manager,2,Bachelor's,Albuquerque,28,40000
+Senior Graphic Designer,15,Master's,Reno,42,110000
+Software Project Manager,9,Bachelor's,Carson City,37,95000
+Supply Chain Analyst,22,Bachelor's,Provo,50,130000
+Senior Business Analyst,6,Master's,Ogden,32,90000
+Junior Marketing Analyst,0.5,Bachelor's,Idaho Falls,23,35000
+Senior Financial Analyst,6,Master's,Twin Falls,31,95000
+Office Manager,15,Bachelor's,Casper,40,65000
+Principal Engineer,20,PhD,Laramie,48,170000
+Junior HR Generalist,3,Bachelor's,Rock Springs,29,45000
+Senior Product Manager,10,Master's,Great Falls,35,120000
+Sales Manager,17,Bachelor's,Kalispell,42,100000
+Director of Marketing,25,Master's,Bozeman,53,180000
+Junior Operations Analyst,5,Bachelor's,Hilo,33,50000
+Customer Service Manager,11,Bachelor's,Kailua,38,80000
+Senior Scientist,16,PhD,Pearl City,44,140000
+Junior Accountant,2,Bachelor's,London,26,40000
+Senior HR Generalist,9,Master's,Manchester,37,95000
+Sales Operations Manager,18,Bachelor's,Birmingham (UK),45,110000
+Marketing Coordinator,4,Bachelor's,Liverpool,32,50000
+Senior Software Developer,8,Master's,Leeds,34,105000
+Director of Operations,21,Master's,Sheffield,50,160000
+Junior Web Designer,3,Bachelor's,Bristol,29,45000
+Senior Training Specialist,12,Master's,Glasgow,40,100000
+Senior Research Scientist,22,PhD,Edinburgh,47,160000
+Junior Sales Representative,1,Bachelor's,Cardiff,27,35000
+Administrative Assistant,10,Bachelor's,Belfast,39,55000
+Senior Project Manager,19,Master's,Dublin,46,140000
+Junior Marketing Manager,4,Bachelor's,Cork,30,50000
+Junior Data Analyst,7,Bachelor's,Galway,36,60000
+Senior Product Marketing Manager,14,Master's,Limerick,43,120000
+Junior Business Analyst,2,Bachelor's,Paris,28,40000
+Senior Marketing Manager,13,Master's,Lyon,41,110000
+Junior Software Developer,5,Bachelor's,Marseille,33,50000
+Senior Sales Manager,20,Bachelor's,Nice,47,135000
+Junior Marketing Specialist,1.5,Master's,Toulouse,25,40000
+Senior Business Analyst,8,Bachelor's,Bordeaux,34,90000
+Senior Data Scientist,16,PhD,Nantes,42,150000
+Junior Project Manager,4,Bachelor's,Lille,31,60000
+Senior Accountant,10,Bachelor's,Strasbourg,38,80000
+Director of Sales,19,Master's,Berlin,45,175000
+Junior Recruiter,3,Bachelor's,Hamburg,29,45000
+Senior Business Development Manager,11,Master's,Munich,36,120000
+Senior Product Designer,18,PhD,Frankfurt,43,140000
+Junior Customer Support Specialist,2,Bachelor's,Cologne,26,35000
+Senior Marketing Analyst,9,Master's,Düsseldorf,37,95000
+Senior IT Support Specialist,14,Bachelor's,Stuttgart,44,110000
+Junior Financial Analyst,5,Bachelor's,Leipzig,32,50000
+Senior Operations Manager,7,Master's,Dresden,33,115000
+Director of Human Resources,23,PhD,Hannover,51,185000
+Junior Software Engineer,2,Bachelor's,Bremen,28,40000
+Senior Sales Representative,12,Bachelor's,Dortmund,39,90000
+Director of Product Management,21,Master's,Essen,48,175000
+Junior Copywriter,3,Bachelor's,Bonn,30,45000
+Senior Marketing Coordinator,7,Bachelor's,Nuremberg,35,80000
+Senior Human Resources Manager,13,Master's,Vienna,41,120000
+Junior Business Development Associate,1.5,Bachelor's,Graz,27,35000
+Senior Account Manager,14,Bachelor's,Salzburg,40,110000
+Senior Researcher,18,PhD,Innsbruck,46,150000
+Junior HR Coordinator,4,Bachelor's,Zurich,31,50000
+Senior Software Engineer,9,Master's,Geneva,34,105000
+Director of Finance,20,Master's,Basel,50,180000
+Junior Marketing Coordinator,2,Bachelor's,Bern,29,40000
+,,,,,
+Senior Project Manager,16,Bachelor's,Madrid,43,140000
+Junior Data Scientist,1.5,Master's,Barcelona,26,45000
+Senior Operations Analyst,7,Bachelor's,Valencia,35,85000
+Senior Marketing Manager,18,PhD,Seville,42,140000
+Junior Accountant,4,Bachelor's,Malaga,31,50000
+Senior Human Resources Coordinator,10,Bachelor's,Bilbao,38,80000
+Director of Operations,20,Master's,Zaragoza,46,170000
+Junior Sales Representative,2,Bachelor's,Murcia,29,40000
+Senior Business Analyst,9,Master's,Rome,37,105000
+Senior UX Designer,15,PhD,Milan,44,145000
+Junior Product Manager,2,Bachelor's,Naples,27,40000
+Senior Marketing Specialist,8,Bachelor's,Turin,36,85000
+Senior IT Project Manager,14,Bachelor's,Florence,43,130000
+Senior Financial Analyst,6,Master's,Venice,33,95000
+Senior Quality Assurance Analyst,9,Bachelor's,Bologna,34,100000
+Director of Sales and Marketing,22,PhD,Palermo,50,180000
+Junior Operations Analyst,1.5,Bachelor's,Athens,28,35000
+Senior Account Executive,12,Bachelor's,Thessaloniki,39,95000
+Director of Business Development,19,Master's,Patras,47,170000
+Junior Social Media Manager,3,Bachelor's,Heraklion,30,45000
+Senior Product Manager,7,Bachelor's,Sofia,34,95000
+Senior Human Resources Specialist,13,Master's,Plovdiv,40,120000
+Junior Business Analyst,2,Bachelor's,Varna,28,40000
+Senior Marketing Coordinator,11,Bachelor's,Bucharest,41,90000
+Senior Data Analyst,17,PhD,Cluj-Napoca,45,155000
+Junior Account Manager,5,Bachelor's,Timi?oara,32,55000
+Senior Software Developer,9,Master's,Budapest,35,110000
+Director of Human Capital,21,Master's,Debrecen,49,180000
+Junior Advertising Coordinator,3,Bachelor's,Prague,30,45000
+Senior Sales Manager,16,Bachelor's,Brno,44,130000
+Junior UX Designer,1.5,Master's,Ostrava,27,45000
+Senior Accountant,7,Bachelor's,Warsaw,36,90000
+Senior Marketing Director,17,PhD,Krakow,41,160000
+Junior HR Generalist,4,Bachelor's,Gdansk,31,50000
+Senior Operations Manager,10,Bachelor's,Wroc?aw,39,120000
+Director of Finance,20,Master's,Poznan,47,170000
+Junior Marketing Coordinator,2,Bachelor's,Riga,30,40000
+Senior IT Consultant,9,Master's,Vilnius,38,110000
+Senior Product Designer,15,PhD,Tallinn,45,150000
+Junior Business Development Associate,2,Bachelor's,Copenhagen,28,40000
+Senior Marketing Analyst,8,Bachelor's,Aarhus,35,85000
+Senior Software Engineer,14,Bachelor's,Odense,44,130000
+Senior Financial Advisor,6,Master's,Stockholm,34,100000
+Senior Project Coordinator,9,Bachelor's,Gothenburg,35,95000
+Director of Operations,22,PhD,Malmo,50,180000
+Junior Business Operations Analyst,1.5,Bachelor's,Oslo,29,35000
+Senior Sales Representative,12,Bachelor's,Bergen,40,100000
+Director of Marketing,19,Master's,Trondheim,48,170000
+Junior Social Media Specialist,3,Bachelor's,Helsinki,31,45000
+Senior Product Development Manager,7,Bachelor's,Turku,33,100000
+Senior Human Resources Manager,13,Master's,Tampere,42,140000
+Junior Financial Analyst,2,Bachelor's,Reykjavik,28,40000
+Senior Marketing Manager,11,Bachelor's,Moscow,40,105000
+Senior Data Scientist,18,PhD,Saint Petersburg,46,160000
+Junior Operations Manager,5,Bachelor's,Kazan,33,70000
+Senior Software Architect,9,Master's,Sochi,37,120000
+Director of Human Resources,21,Master's,Dubai,51,190000
+Junior Marketing Specialist,3,Bachelor's,Abu Dhabi,30,45000
+Senior Project Manager,15,Bachelor's,Doha,43,120000
+Junior Research Scientist,1.5,Master's,Riyadh,27,50000
+Senior Operations Analyst,8,Bachelor's,Jeddah,35,85000
+Senior Marketing Manager,13,PhD,Kuwait City,42,140000
+Junior Sales Representative,3,Bachelor's,Manama,32,45000
+Senior Financial Analyst,9,Bachelor's,Muscat,37,100000
+Senior Software Developer,16,Master's,Istanbul,45,140000
+Junior Operations Analyst,5,Bachelor's,Ankara,33,70000
+Senior Marketing Specialist,10,Bachelor's,Izmir,39,120000
+Senior HR Manager,18,PhD,Tel Aviv,44,160000
+Junior Business Analyst,1.5,Bachelor's,Jerusalem,29,40000
+Senior Product Manager,10,Bachelor's,Cairo,38,120000
+Senior Data Analyst,19,PhD,Alexandria,46,150000
+Junior Marketing Analyst,6,Bachelor's,Giza,34,70000
+Senior Operations Manager,8,Bachelor's,Johannesburg,36,95000
+Director of Marketing,21,Master's,Cape Town,49,180000
+Junior Financial Analyst,3,Bachelor's,Durban,31,50000
+Senior Project Coordinator,11,Bachelor's,Pretoria,41,95000
+Director of Operations,20,Master's,Nairobi,47,170000
+Junior Marketing Coordinator,2,Bachelor's,Mombasa,30,40000
+Senior IT Consultant,9,Master's,Lagos,38,110000
+Senior Product Designer,15,PhD,Abuja,45,150000
+Junior Business Development Associate,2,Bachelor's,Accra,28,40000
+Senior Marketing Analyst,8,Bachelor's,Kumasi,35,85000
+Senior Software Engineer,14,Bachelor's,Casablanca,44,130000
+Senior Financial Advisor,6,Master's,Rabat,34,100000
+Senior Project Coordinator,9,Bachelor's,Marrakech,35,95000
+Director of Operations,22,PhD,Tunis,50,180000
+Junior Business Operations Analyst,1.5,Bachelor's,Algiers,29,350
+,,,,,
+Senior Financial Manager,10,Bachelor's,Addis Ababa,37,120000
+Senior Data Scientist,18,PhD,Khartoum,46,160000
+Junior Marketing Coordinator,3,Bachelor's,Johor Bahru,31,50000
+Senior Operations Manager,12,Bachelor's,Kuala Lumpur,42,110000
+Junior Sales Representative,1.5,Bachelor's,Singapore,29,40000
+Senior Marketing Specialist,8,Bachelor's,Bangkok,36,95000
+Senior HR Specialist,15,Master's,Chiang Mai,44,140000
+Junior Operations Manager,4,Bachelor's,Hanoi,33,60000
+Senior Marketing Coordinator,9,Bachelor's,Ho Chi Minh City,39,110000
+Senior Data Engineer,16,PhD,Da Nang,45,150000
+Junior Marketing Manager,4,Bachelor's,Manila,32,60000
+Senior Financial Analyst,8,Bachelor's,Cebu,37,90000
+Director of Marketing,20,Master's,Jakarta,47,180000
+Junior Business Analyst,2,Bachelor's,Bandung,30,40000
+Senior Project Manager,9,Bachelor's,Surabaya,38,120000
+Senior Data Analyst,17,PhD,Bali (Denpasar),46,160000
+Junior Financial Analyst,5,Bachelor's,Phnom Penh,34,70000
+Senior Product Manager,8,Bachelor's,Vientiane,36,95000
+Director of Operations,21,Master's,Yangon,49,180000
+Junior Operations Analyst,3,Bachelor's,Mandalay,31,50000
+Senior Project Coordinator,11,Bachelor's,Taipei,41,95000
+Director of Marketing,19,Master's,Kaohsiung,47,170000
+Junior Business Development Associate,1.5,Bachelor's,Seoul,29,35000
+Senior Financial Manager,9,Bachelor's,Busan,35,100000
+Senior Product Designer,15,PhD,Incheon,44,150000
+Junior Business Analyst,4,Bachelor's,Tokyo,33,60000
+Senior Marketing Analyst,8,Bachelor's,Osaka,35,85000
+Senior Software Engineer,13,Bachelor's,Kyoto,44,130000
+Junior Product Manager,4,Bachelor's,Nagoya,32,65000
+Senior Business Analyst,10,Bachelor's,Hiroshima,38,110000
+Director of Operations,21,PhD,Sapporo,49,180000
+Junior Marketing Specialist,2,Bachelor's,Fukuoka,29,40000
+Senior Business Development Manager,7,Bachelor's,Sendai,35,90000
+Senior HR Manager,14,Master's,Beijing,45,140000
+Junior Financial Analyst,4,Bachelor's,Shanghai,33,60000
+Senior Marketing Manager,12,Bachelor's,Shenzhen,40,130000
+Senior Data Scientist,16,PhD,Guangzhou,44,160000
+Junior Operations Coordinator,2,Bachelor's,Chengdu,30,40000
+Senior Marketing Analyst,9,Bachelor's,Wuhan,37,100000
+Director of HR,20,Master's,Xi'an,48,180000
+Junior Project Manager,3,Bachelor's,Hangzhou,31,55000
+Senior Operations Coordinator,9,Bachelor's,Nanjing,38,120000
+Senior Data Engineer,16,PhD,Tianjin,45,150000
+Junior Marketing Manager,5,Bachelor's,Hong Kong,33,70000
+Senior Business Analyst,8,Bachelor's,Macau,36,95000
+Director of Marketing,21,Master's,Melbourne,49,180000
+Junior Operations Analyst,3,Bachelor's,Sydney,31,50000
+Senior Project Manager,12,Bachelor's,Brisbane,42,120000
+Director of Marketing,19,Master's,Perth,47,170000
+Junior Business Development Associate,1.5,Bachelor's,Adelaide,29,35000
+Senior Financial Manager,9,Bachelor's,Canberra,35,100000
+Senior Product Designer,15,PhD,Auckland,44,150000
+Junior Business Analyst,4,Bachelor's,Wellington,33,60000
+Senior Marketing Analyst,8,Bachelor's,Christchurch,35,85000
+Senior Software Engineer,13,Bachelor's,Suva,44,130000
+Senior Financial Advisor,6,Master's,Nadi,34,80000
+Senior Marketing Specialist,8,Bachelor's,Mexico City,36,95000
+Junior HR Coordinator,2,Bachelor's,Guadalajara,30,40000
+Senior Business Development Manager,10,Bachelor's,Monterrey,37,120000
+Senior Marketing Manager,16,Master's,Puebla,45,160000
+Junior Financial Advisor,4,Bachelor's,Tijuana,32,65000
+Senior Project Manager,12,Bachelor's,Leon,39,130000
+Director of Engineering,20,PhD,Bogotá,47,180000
+Junior Marketing Analyst,2,Bachelor's,Medellín,29,40000
+Senior Operations Manager,9,Bachelor's,Cali,36,100000
+Senior Data Scientist,15,PhD,Cartagena,43,150000
+Junior Marketing Coordinator,3,Bachelor's,Lima,32,55000
+Senior Business Analyst,10,Bachelor's,Arequipa,38,110000
+Director of Marketing,21,Master's,Cusco,48,180000
+Junior Business Development Associate,3,Bachelor's,Santiago,31,50000
+Senior Financial Analyst,12,Bachelor's,Valparaiso,40,130000
+Senior UX Designer,16,PhD,Buenos Aires,45,160000
+Junior Product Manager,4,Bachelor's,Cordoba,33,60000
+Senior Marketing Manager,8,Bachelor's,Rosario,36,95000
+Director of Operations,19,Master's,Montevideo,47,170000
+Junior Project Manager,2,Bachelor's,Asuncion,29,40000
+Senior Operations Coordinator,7,Bachelor's,La Paz,34,90000
+Senior Business Analyst,15,PhD,Santa Cruz,44,150000
+Junior Marketing Specialist,5,Bachelor's,Quito,33,70000
+Senior Financial Manager,8,Bachelor's,Guayaquil,35,90000
+Director of Marketing,18,Master's,Caracas,43,170000
+Junior Financial Analyst,3,Bachelor's,Panama City,31,50000
+Senior Product Manager,14,Bachelor's,San Jose (Costa Rica),41,150000
+Senior Data Engineer,16,PhD,Guatemala City,44,160000
+Junior Business Analyst,4,Bachelor's,Belize City,33,60000
+Senior Marketing Analyst,8,Bachelor's,San Salvador,35,85000
+Director of Engineering,19,Master's,Tegucigalpa,45,180000
+Junior Operations Manager,1,Bachelor's,Managua,28,35000
+Senior Business Development Manager,8,Bachelor's,Kingston,36,110000
+Senior Data Scientist,16,PhD,Havana,44,160000
+Junior Marketing Coordinator,3,Bachelor's,Santo Domingo,31,55000
+Senior Business Analyst,10,Bachelor's,Port-au-Prince,38,110000
+Director of Marketing,21,Master's,Buenos Aires,48,180000
+Junior Business Development Associate,3,Bachelor's,Cordoba,31,50000
+Senior Financial Analyst,12,Bachelor's,Rosario,40,130000
+Senior UX Designer,16,PhD,Montevideo,45,160000
+Junior Product Manager,4,Bachelor's,Asuncion,33,60000
+Senior Marketing Manager,8,Bachelor's,La Paz,36,95000
+Director of Operations,19,Master's,Santa Cruz,47,170000
+Junior Project Manager,2,Bachelor's,Quito,29,40000
+Senior Operations Coordinator,7,Bachelor's,Guayaquil,34,90000
+Senior Business Analyst,15,PhD,Caracas,44,150000
+Junior Marketing Specialist,5,Bachelor's,Panama City,33,70000
+Senior Financial Manager,8,Bachelor's,San Jose (Costa Rica),35,90000
+Director of Marketing,18,Master's,Guatemala City,43,170000
+Junior Financial Analyst,3,Bachelor's,Belize City,31,50000
+Senior Product Manager,14,Bachelor's,San Salvador,41,150000
+Senior Data Engineer,16,PhD,Tegucigalpa,44,160000
+Junior Business Analyst,4,Bachelor's,Managua,33,60000
+Senior Marketing Analyst,8,Bachelor's,Kingston,35,85000
+Director of Operations,19,Master's,Havana,43,170000
+Junior Project Manager,2,Bachelor's,Santo Domingo,29,40000
+Senior Operations Coordinator,7,Bachelor's,Port-au-Prince,34,90000
+Senior Business Analyst,15,PhD,New York,44,150000
